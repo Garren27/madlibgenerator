@@ -1,0 +1,5 @@
+A program to read the "madlib choices.txt" file and prompt the user to choose what story to use and the adlibs to put in the story. 
+
+More stories can be added to the text file. 
+-	Stories need to be seperated by a blank line
+-	Sections to be replaced need to be of the form _ (word type)
